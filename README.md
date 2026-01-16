@@ -1,5 +1,7 @@
 ## What is this?
-MIPS assembly program examples, with comprehensive comments/documentation.
+MIPS assembly program examples, with comprehensive comments/documentation. 
+
+To learn MIPS asm, there's various resources online, and textbooks like [this](https://annas-archive.li/md5/f6b8310d911b1ef23f9b85d13d266a67) or [this](https://web.archive.org/web/20250614144738/https://www.cs.csub.edu/~eddie/cmps2240/doc/britton-mips-text.pdf). There's frankly a bunch of stuff online so I highly doubt you wouldn't find something useful after a few rudimentary searches. 
 
 Assemble and run the code in a suitable MIPS assembler, such as via https://github.com/CaptainChicky/Java-MIPS-Assembler.
 
